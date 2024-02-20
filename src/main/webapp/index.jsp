@@ -3,6 +3,8 @@
 ********************************************
 <h2>Hello everyone This is CLOUDNICE!!!</h2>
 ********************************************
+YASIN HOCAMA SELAMLAR
+**********************
 
 <h2>Hello World! Welcome to Jenkins Tomcat Web App</h2>
   <h3> Stage Deployment V2.7 RC1 </h3>
