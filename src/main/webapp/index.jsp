@@ -3,7 +3,7 @@
 ********************************************
 <h2>Hello everyone This is CLOUDNICE!!!</h2>
 ********************************************
-<h2> YASIN HOCAMA SELAMLAR </h2>
+<h2> PIPELINE TRIGGER SUCCESS </h2>
 **********************
 
 <h2>Hello World! Welcome to Jenkins Tomcat Web App</h2>
